@@ -1,16 +1,22 @@
-## Hi there 👋
+# Sandra Jiménez Ramiro
 
-<!--
-**SanJiRa-03/SanJiRa-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de videojuegos con base en informática.
 
-Here are some ideas to get you started:
+## 🖥️ Programación
+- [Proyectos-Programacion-CSharp](https://github.com/SanJiRa-03/Proyectos-Programacion-CSharp)
+- [Proyectos-Programacion-C](https://github.com/SanJiRa-03/Proyectos-Programacion-C)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 Videojuegos
+- DashAndDine (privado)
+- Drowned Cape (privado, Organización Taller-3)
+- Cooking Barquillos In Madrid, game jam (privado)
+- PingPong (privado)
+
+## 🌐 Páginas web
+- [Portfolio](https://github.com/SanJiRa-03/Portfolio-Sandra-Jimenez-Ramiro) · [ver web](https://sanjira-03.github.io/Portfolio-Sandra-Jimenez-Ramiro/)
+- [Dash&Dine web](https://github.com/SanJiRa-03/DashAndDine-PaginaWeb)
+- [Drowned Cape web](https://github.com/SanJiRa-03/DrownedCape-PaginaWeb)
+- [Foque web](https://github.com/SanJiRa-03/Foque-Pagina-Web)
+
+## 🎓 Universidad
+- Práctica 1: Guardia creíble (privado)
