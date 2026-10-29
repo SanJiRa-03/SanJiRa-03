@@ -1,60 +1,37 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=170&section=header&text=Sandra%20Jim%C3%A9nez%20Ramiro&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Desarrollo%20de%20videojuegos%20%C2%B7%20Dise%C3%B1o%20web%20interactivo&descAlignY=60&descSize=16" alt="Sandra Jiménez Ramiro" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:60A5FA&height=170&section=header&text=Sandra%20Jim%C3%A9nez%20Ramiro&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Desarrollo%20de%20videojuegos%20%C2%B7%20Dise%C3%B1o%20web%20interactivo&descAlignY=60&descSize=16" alt="Sandra Jiménez Ramiro" width="100%" draggable="false"/>
 
-<a href="https://sanjira-03.github.io/Portfolio-Sandra-Jimenez-Ramiro/"><img src="https://img.shields.io/badge/VER_MI_PORTFOLIO-CC4090?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+<a href="https://sanjira-03.github.io/Portfolio-Sandra-Jimenez-Ramiro/"><img src="https://img.shields.io/badge/Ver_mi_portfolio-1D4ED8?style=for-the-badge&logo=githubpages&logoColor=white" alt="Ver mi portfolio" draggable="false"/></a>
 
-<img src="https://img.shields.io/badge/Unity-1a1a1a?style=flat-square&logo=unity&logoColor=white" alt="Unity"/>
-<img src="https://img.shields.io/badge/Unreal_Engine-1a1a1a?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
-<img src="https://img.shields.io/badge/C%23-E57DB5?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
-<img src="https://img.shields.io/badge/C-E57DB5?style=flat-square&logo=c&logoColor=white" alt="C"/>
-<img src="https://img.shields.io/badge/HTML5-E57DB5?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
-<img src="https://img.shields.io/badge/CSS3-E57DB5?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
-<img src="https://img.shields.io/badge/JavaScript-E57DB5?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Unity-1D4ED8?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" draggable="false"/> <img src="https://img.shields.io/badge/Unreal_Engine-1D4ED8?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" draggable="false"/> <img src="https://img.shields.io/badge/C#-1D4ED8?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" draggable="false"/> <img src="https://img.shields.io/badge/C-1D4ED8?style=for-the-badge&logo=c&logoColor=white" alt="C" draggable="false"/> <img src="https://img.shields.io/badge/HTML-1D4ED8?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" draggable="false"/> <img src="https://img.shields.io/badge/CSS-1D4ED8?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" draggable="false"/> <img src="https://img.shields.io/badge/JavaScript-1D4ED8?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" draggable="false"/>
 
 </div>
 
 <br/>
 
-Todos mis proyectos, ordenados por tipo. Los privados se muestran sin enlace porque pertenecen a trabajos de equipo o de clase.
+Todos mis proyectos, ordenados por tipo. Los privados llevan candado porque pertenecen a trabajos de equipo o de clase.
 
-## 🎮 Videojuegos
+<p><img src="https://img.shields.io/badge/Videojuegos-1D4ED8?style=for-the-badge&logo=unity&logoColor=white" alt="Videojuegos" draggable="false"/></p>
 
-| Proyecto | Qué es | Motor |
-|---|---|---|
-| **Dash&Dine** | Proyecto en equipo | C# |
-| **Drowned Cape** | Proyecto del faro, Taller de Proyectos III | Unity · C# |
-| **Cooking Barquillos In Madrid** | Game jam de una semana, inspirada en la última barquillería de Madrid | Unity · C# |
-| **PingPong** | Proyecto individual de Programación de Videojuegos | Unreal Engine |
+<table width="100%"><thead><tr><th align="left" width="22%">Proyecto</th><th align="left" width="40%">Qué es</th><th align="left" width="18%">Motor</th><th align="left" width="20%">Acceso</th></tr></thead><tbody><tr><td><b>Dash&amp;Dine</b></td><td>Proyecto en equipo</td><td>C#</td><td><img src="https://img.shields.io/badge/:lock:-privado-475569?style=for-the-badge" alt="privado" draggable="false"/></td></tr><tr><td><b>Drowned Cape</b></td><td>Proyecto del faro, Taller de Proyectos III</td><td>Unity · C#</td><td><img src="https://img.shields.io/badge/:lock:-privado-475569?style=for-the-badge" alt="privado" draggable="false"/></td></tr><tr><td><b>Cooking Barquillos In Madrid</b></td><td>Game jam de una semana, inspirada en la última barquillería de Madrid</td><td>Unity · C#</td><td><img src="https://img.shields.io/badge/:lock:-privado-475569?style=for-the-badge" alt="privado" draggable="false"/></td></tr><tr><td><b>PingPong</b></td><td>Proyecto individual de Programación de Videojuegos</td><td>Unreal Engine</td><td><img src="https://img.shields.io/badge/:lock:-privado-475569?style=for-the-badge" alt="privado" draggable="false"/></td></tr></tbody></table>
 
-<sub>🔒 Repositorios privados.</sub>
+<p><img src="https://img.shields.io/badge/Páginas_web-1D4ED8?style=for-the-badge&logo=html5&logoColor=white" alt="Páginas web" draggable="false"/></p>
 
-## 🌐 Páginas web
+<table width="100%"><thead><tr><th align="left" width="40%">Proyecto</th><th align="left" width="30%">Código</th><th align="left" width="30%">Web</th></tr></thead><tbody><tr><td><b>Mi portfolio</b></td><td><a href="https://github.com/SanJiRa-03/Portfolio-Sandra-Jimenez-Ramiro"><img src="https://img.shields.io/badge/Repositorio-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio" draggable="false"/></a></td><td><a href="https://sanjira-03.github.io/Portfolio-Sandra-Jimenez-Ramiro/"><img src="https://img.shields.io/badge/Abrir_web-1D4ED8?style=for-the-badge&logo=githubpages&logoColor=white" alt="Abrir web" draggable="false"/></a></td></tr><tr><td><b>Dash&amp;Dine</b></td><td><a href="https://github.com/SanJiRa-03/DashAndDine-PaginaWeb"><img src="https://img.shields.io/badge/Repositorio-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio" draggable="false"/></a></td><td></td></tr><tr><td><b>Drowned Cape</b></td><td><a href="https://github.com/SanJiRa-03/DrownedCape-PaginaWeb"><img src="https://img.shields.io/badge/Repositorio-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio" draggable="false"/></a></td><td></td></tr><tr><td><b>Foque</b></td><td><a href="https://github.com/SanJiRa-03/Foque-Pagina-Web"><img src="https://img.shields.io/badge/Repositorio-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio" draggable="false"/></a></td><td></td></tr></tbody></table>
 
-| Proyecto | Código | Web |
-|---|---|---|
-| **Mi portfolio** | [Repositorio](https://github.com/SanJiRa-03/Portfolio-Sandra-Jimenez-Ramiro) | [Abrir](https://sanjira-03.github.io/Portfolio-Sandra-Jimenez-Ramiro/) |
-| **Dash&Dine** | [Repositorio](https://github.com/SanJiRa-03/DashAndDine-PaginaWeb) | |
-| **Drowned Cape** | [Repositorio](https://github.com/SanJiRa-03/DrownedCape-PaginaWeb) | |
-| **Foque** | [Repositorio](https://github.com/SanJiRa-03/Foque-Pagina-Web) | |
+<p><img src="https://img.shields.io/badge/Programación-1D4ED8?style=for-the-badge&logo=csharp&logoColor=white" alt="Programación" draggable="false"/></p>
 
-## 💻 Programación
+<table width="100%"><thead><tr><th align="left" width="35%">Repositorio</th><th align="left" width="35%">Contenido</th><th align="left" width="30%">Código</th></tr></thead><tbody><tr><td><b>Proyectos-Programacion-CSharp</b></td><td>Prácticas en C# y .NET</td><td><a href="https://github.com/SanJiRa-03/Proyectos-Programacion-CSharp"><img src="https://img.shields.io/badge/Repositorio-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio" draggable="false"/></a></td></tr><tr><td><b>Proyectos-Programacion-C</b></td><td>Prácticas en C</td><td><a href="https://github.com/SanJiRa-03/Proyectos-Programacion-C"><img src="https://img.shields.io/badge/Repositorio-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio" draggable="false"/></a></td></tr></tbody></table>
 
-| Repositorio | Contenido |
-|---|---|
-| [**Proyectos-Programacion-CSharp**](https://github.com/SanJiRa-03/Proyectos-Programacion-CSharp) | Prácticas en C# y .NET |
-| [**Proyectos-Programacion-C**](https://github.com/SanJiRa-03/Proyectos-Programacion-C) | Prácticas en C |
+<p><img src="https://img.shields.io/badge/Universidad-1D4ED8?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Universidad" draggable="false"/></p>
 
-## 🎓 Universidad
-
-| Proyecto | Asignatura |
-|---|---|
-| **Práctica 1: Guardia creíble** 🔒 | Inteligencia Artificial |
+<table width="100%"><thead><tr><th align="left" width="40%">Proyecto</th><th align="left" width="35%">Asignatura</th><th align="left" width="25%">Acceso</th></tr></thead><tbody><tr><td><b>Práctica 1: Guardia creíble</b></td><td>Inteligencia Artificial</td><td><img src="https://img.shields.io/badge/:lock:-privado-475569?style=for-the-badge" alt="privado" draggable="false"/></td></tr></tbody></table>
 
 <br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=90&section=footer" alt="" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:60A5FA&height=90&section=footer" alt="" width="100%" draggable="false"/>
 
 </div>
